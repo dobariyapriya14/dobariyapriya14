@@ -3,23 +3,6 @@
 <h1 align="center">Hi There, I'm Priya Dobariya 👋</h1>
 <h3 align="center">React Native Developer &nbsp;•&nbsp; React.js &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; TypeScript</h3>
 
-<!-- ================== TYPING SVG ================== -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/priya-dobariya04/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=50&lines=React+Native+Developer+📱;React.js+%2B+TypeScript+Developer+⚛️;Building+Scalable+Mobile+%26+Web+Apps+🚀;JavaScript+%2B+TypeScript+Enthusiast+💻;Always+Learning+New+Technologies+✨" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ================== SOCIAL BADGES ================== -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/priya-dobariya04/">
-    <img src="https://img.shields.io/badge/LinkedIn-Priya%20Dobariya-00FF41?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00FF41?style=for-the-badge&logo=googlejobs&logoColor=0D1117&labelColor=0D1117" />
-</p>
-
 <br>
 
 ## 💫 About Me
@@ -27,48 +10,10 @@
 ```ts
 const priya = {
     role: "React Native Developer",
-
-    languages: [
-        "JavaScript",
-        "TypeScript"
-    ],
-
-    frameworks: [
-        "React Native",
-        "React.js",
-        "Node.js"
-    ],
-
-    stateManagement: [
-        "Zustand",
-        "Redux Toolkit"
-    ],
-
-    dataFetching: [
-        "TanStack Query",
-        "Axios"
-    ],
-
-    validation: [
-        "Zod"
-    ],
-
-    backendAndServices: [
-        "Firebase",
-        "REST APIs"
-    ],
-
-    experience: [
-        "Building production-ready React Native applications 📱",
-        "Developing scalable React.js web applications 🌐",
-        "Creating reusable and maintainable TypeScript applications 💻"
-    ],
-
-    currentFocus:
-        "Building clean, scalable & high-performance applications",
-
-    funFact:
-        "I debug first and ask questions later 😄"
+    stack: ["React Native", "React.js", "TypeScript", "Node.js"],
+    stateMgmt: ["Zustand", "Redux Toolkit", "TanStack Query"],
+    focus: "Building clean, scalable & high-performance apps",
+    funFact: "I debug first and ask questions later 😄"
 };
 ```
 
@@ -85,9 +30,9 @@ const priya = {
 ## 📱 Mobile Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-00FF41?style=for-the-badge&logo=react&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/JavaScript-00FF41?style=for-the-badge&logo=javascript&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/TypeScript-00FF41?style=for-the-badge&logo=typescript&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/JavaScript-61DAFB?style=for-the-badge&logo=javascript&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/TypeScript-61DAFB?style=for-the-badge&logo=typescript&logoColor=0D1117" />
 </p>
 
 <br>
@@ -107,11 +52,11 @@ const priya = {
 ## ⚡ State Management & API
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Zustand-00FF41?style=for-the-badge&logo=react&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-00FF41?style=for-the-badge&logo=redux&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-00FF41?style=for-the-badge&logo=reactquery&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/Axios-00FF41?style=for-the-badge&logo=axios&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/Zod-00FF41?style=for-the-badge&logo=zod&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Zustand-FFA500?style=for-the-badge&logo=react&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-FFA500?style=for-the-badge&logo=redux&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FFA500?style=for-the-badge&logo=reactquery&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Axios-FFA500?style=for-the-badge&logo=axios&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Zod-FFA500?style=for-the-badge&logo=zod&logoColor=0D1117" />
 </p>
 
 <br>
